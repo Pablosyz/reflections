@@ -11,8 +11,9 @@ The value is you can edit your files without registering the changes you make al
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Creating different versions of an app or experimenting, using one branch for each version.
 
 How do the diagrams help you visualize the branch structure?
 
